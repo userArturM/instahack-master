@@ -1,3 +1,3 @@
 # instahack
 
-###### [* Hack instagram accounts use bruteforce]
+######  Hack instagram accounts use bruteforce
